@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
     EditText wordEditText;
     EditText meanEditText;
     EditText searchWordEditText;
-
     HashMap<String, String> hashMap;
     SharedPreferences pref;
     SharedPreferences.Editor editor;
